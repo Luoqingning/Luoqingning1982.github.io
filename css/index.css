@@ -1,0 +1,28 @@
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("../img/picture3.jpg");
+  background-size: cover;
+  color: white;
+  height: 100%;
+}
+
+.display-3 {
+  margin-top: 150px;
+  font-size: 50px;
+  color: #e05164;
+}
+
+.display-1 {
+  font-size: 30px;
+  color: #e05164;
+}
+
+.lead {
+	margin-top: 50px;
+}
+.menu-item {
+	color: white;
+}
+.nabar {
+	background:#22093B;
+}
